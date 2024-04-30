@@ -1,4 +1,4 @@
-- 👋 salut, je suis @nourayni eleve ingenieur en securite informatique
+- 👋 salut, je suis @nourayni élève ingenieur en securite informatique
 - 👀 j'aime la programmation 
 - 🌱 javascript est mon langage prefere
 
