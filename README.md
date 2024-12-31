@@ -1,9 +1,21 @@
-- 👋 salut, je suis @nourayni élève ingenieur en securite informatique
-- 👀 j'aime la programmation 
-- 🌱 javascript est mon langage prefere
+# Bienvenue sur mon profil GitHub !
 
+## À propos de moi
+Salut ! Je suis un développeur web fullstack passionné avec une expertise en Spring Boot, Angular et Python. En plus de mes compétences en développement, je suis également étudiant en mathématiques, avec un intérêt particulier pour l'algèbre et la cryptographie.
 
-<!---
-nourayni/nourayni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Compétences techniques
+- **Langages de programmation** : Java, Python, JavaScript
+- **Frameworks et bibliothèques** : Spring Boot, Angular, React
+- **Bases de données** : MySQL, PostgreSQL, Orale
+- **Outils et plateformes** : Git, Docker, Jenkins
+
+## Education
+- **licence** : Étudiant en mathématiques
+- **Spécialisation** : Algèbre et cryptographi
+
+## Contact
+- **Email** : [ton.email@example.com](mailto:odrame68@gmail.com)
+
+Merci de visiter mon profil GitHub ! N'hésite pas à explorer mes projets et à me contacter pour toute collaboration ou question.
+
+---
