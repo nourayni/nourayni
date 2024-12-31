@@ -14,7 +14,7 @@ Salut ! Je suis un développeur web fullstack passionné avec une expertise en S
 - **Spécialisation** : Algèbre et cryptographi
 
 ## Contact
-- **Email** : [ton.email@example.com](mailto:odrame68@gmail.com)
+- **Email** : [email](mailto:odrame68@gmail.com)
 
 Merci de visiter mon profil GitHub ! N'hésite pas à explorer mes projets et à me contacter pour toute collaboration ou question.
 
